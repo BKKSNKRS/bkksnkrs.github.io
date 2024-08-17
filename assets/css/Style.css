@@ -29,9 +29,9 @@ layout: Stylesheet
     --anchor-link-color: hsl(205, 12%, 70%);
     --search-placeholder-color: hsl(var(--main-hue), 0%, 60.0%);
     --searchbox-shadow-color:  hsl(204, 63.0%, 78.8%);
-    --heading-font-family: 'Poppins', 'Noto Sans Thai', sans-serif;
-    --primary-font-family: 'Sarabun', sans-serif;
-    --secondary-font-family: 'Sarabun', sans-serif;
+    --heading-font-family: 'Poppins', 'Sarabun', sans-serif;
+    --primary-font-family: 'Poppins', 'Sarabun', sans-serif;
+    --secondary-font-family: 'Poppins', 'Sarabun', sans-serif;
 }
 
 
