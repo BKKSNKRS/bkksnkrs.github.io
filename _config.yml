@@ -59,7 +59,7 @@ user:
   bio: Idiot yute and passionate learner, founder of [Hamstersquad](https://hamstersquad.github.io/) modding team.
   email: onetucker@duck.com
   photo: /assets/img/profile.png
-  alt_link: https://hamstersquad.github.io/
+  alt_link: hamstersquad.github.io
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
     enabled: false  # turn this to true
