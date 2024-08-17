@@ -35,7 +35,7 @@ subheading: # subheading won't work without a tagline,
           # having a heading and a subheading looks 
           # ridiculous.
   enabled: true
-  name: Notes and Thoughts
+  name: Bangkok Sneakers
 tagline: # subheading won't work without a tagline, 
          # tagline is mandatory if you want the 
          # suheading to appear. The reason is
@@ -45,28 +45,28 @@ tagline: # subheading won't work without a tagline,
          # the subheading to support the main heading
          # which in this case is 'Knowledge Continuum'
   enabled: true
-  name: An experiment to spark conversations
+  name: Simple sneaker database
 copyright: 
-  year: 2020
-  msg: Raghuveer S # This is a mandatory attribute for copyright to be displayed
+  year: 2024
+  msg: Jirathip D # This is a mandatory attribute for copyright to be displayed
 
 user:
   display: true # setting it to false will remove the header image and bio
                 # Note that user settings come wholesale, it does not have the 
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
-  name: Raghuveer S
-  bio: Programmer ∪ Writer. Interested in constraints and correspondences.
-  email: raghu-veer@outlook.com
+  name: Jirathip D
+  bio: Idiot yute and passionate learner, founder of [Hamstersquad](https://hamstersquad.github.io/) modding team.
+  email: onetucker@duck.com
   photo: /assets/img/profile.png
-  alt_link: rgvr.me
+  alt_link: https://hamstersquad.github.io/
   social: # just leave the field blank or type in null, if you don't have a
           # particular social media account and it won't appear
     enabled: false  # turn this to true
-    twitter: rgvrme
-    github: rgvr 
-    youtube: rgvr 
-    linkedin: rgvr  
+    twitter: 
+    github: onetucker 
+    youtube: 
+    linkedin: 
     twitch: null
     facebook: null 
     instagram: null
