@@ -1,6 +1,6 @@
 ---
 layout: Post
-title: By Date
+title: เรียงตามวันที่
 permalink: /dates/
 content-type: eg
 ---
