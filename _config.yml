@@ -56,7 +56,7 @@ user:
                 # granular enabling or disabling as with the 'preferences'
                 # or the site-wide settings.
   name: Jirathip D
-  bio: Idiot yute and passionate learner, founder of Hamstersquad modding team.
+  bio: Idiot and passionate yute, founder of Hamstersquad modding team.
   email: onetucker@duck.com
   photo: /assets/img/profile.png
   alt_link: hamstersquad.github.io
@@ -131,7 +131,7 @@ plugins:
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: bkksnkrs
+    shortname:
 
 markdown: kramdown
 
