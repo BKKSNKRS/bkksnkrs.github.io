@@ -5,10 +5,11 @@ permalink: /about/
 content-type: eg
 ---
 
-BKKSNKRS ศูนย์รวมข้อมูลสนีกเกอร์ย่อยง่าย ตรงประเด็น จัดทำขึ้นโดยวัยรุ่นผู้มีเวลาว่างเป็นบางเวลา 
+BKKSNKRS ก่อตั้งขึ้นในปี 2024 เว็บไซต์รวบรวมข้อมูลสนีกเกอร์ให้ออกมาได้เข้าใจง่าย และตรงประเด็น เพื่อทำความเข้าใจในตัวรองเท้า และนำไปเป็นส่วนประกอบในการตัดสินใจเลือกซื้อ จัดทำขึ้นโดยวัยรุ่นอยากลองของ ผู้ซึ่งมีเวลาว่างพอสมควร
 
 
-## ติดต่อเรา
+## ช่องทางการติดต่อ
 
-<i class="fa-brands fa-square-facebook"></i> [hamstersquad](https://www.facebook.com/onehamstersquad/)  
+อยากมีส่วนร่วม ต้องการสนับสนุน
+<i class="fa-brands fa-discord"></i> [tucker](http://discordapp.com/users/311134669951205376)  
 <i class="fa-solid fa-envelope"></i> <onetucker@duck.com>
